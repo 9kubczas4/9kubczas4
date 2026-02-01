@@ -8,5 +8,3 @@ Tech Lead / Senior Angular Developer 💻🅰️ with a passion for building inn
 ### Stats
 
 ![Pawel Kubiak Contribution](https://github-readme-activity-graph.vercel.app/graph?username=9kubczas4&theme=github-compact)
-
-![Pawel Kubiak Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=9kubczas4&layout=compact&theme=radical)
