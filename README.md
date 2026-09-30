@@ -1,9 +1,9 @@
 ## Hi there, I'm Paweł 👋
 
-Tech Lead / Senior Angular Developer 💻🅰️ with a passion for building innovative web apps. / Angular Bros - Co-Founder / [@AngularWroclaw](https://twitter.com/AngularWroclaw) - Co-organizer
+Tech Lead / Software Engineer 💻🅰️ with a passion for building innovative web apps. / [@AngularWroclaw](https://twitter.com/AngularWroclaw) - Co-organizer
 
-- 💬 Ask me about Angular, Typescript
-- 📫 How to reach me: [@pawelkubiakdev](https://twitter.com/pawelkubiakdev)
+- 💬 Ask me about WebAI, WebMCP, Angular, Typescript
+- 📫 How to reach me: [@pawelkubiakdev](https://x.com/pawelkubiakdev)
 
 ### Stats
 
